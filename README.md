@@ -1,4 +1,4 @@
-# Title
+# Title mistake
 
 # Header
 
@@ -10,7 +10,7 @@ Paragraph 2
 - b
 - c
 
-[Link](file:///C:/Users/harri/Documents/msc-notes/01%20-%20Data%20Science/01a-markdown-quarto-and-git/markdown-quarto-and-git-slides.html#/task-3-fixing-someone-elses-mistakes)
+[Link mistake](https://www.linkedin.com/feed/)
 
 <!--
 **harrisonluff/harrisonluff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
