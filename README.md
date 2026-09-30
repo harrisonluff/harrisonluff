@@ -1,4 +1,14 @@
-## Hi there 👋
+# Title
+
+# Header
+
+Paragraph 1
+
+Paragraph 2
+
+- a
+- b
+- c
 
 <!--
 **harrisonluff/harrisonluff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
