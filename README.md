@@ -1,6 +1,5 @@
 # Title
 
-# Header
 
 Paragraph 1
 
@@ -10,4 +9,4 @@ Paragraph 2
 - b
 - c
 
-[Link typo](https://www.linkedin.com/feed/)
+[Link](https://www.linkedin.com/feed/)
