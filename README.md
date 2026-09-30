@@ -1,4 +1,4 @@
-# Title mistake
+# Title
 
 # Header
 
@@ -10,7 +10,7 @@ Paragraph 2
 - b
 - c
 
-[Link mistake](https://www.linkedin.com/feed/)
+[Link](https://www.linkedin.com/feed/)
 
 <!--
 **harrisonluff/harrisonluff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
