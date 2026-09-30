@@ -10,4 +10,4 @@ Paragraph 2
 - b
 - c
 
-[Link](https://www.linkedin.com/feed/)
+[Link typo](https://www.linkedin.com/feed/)
